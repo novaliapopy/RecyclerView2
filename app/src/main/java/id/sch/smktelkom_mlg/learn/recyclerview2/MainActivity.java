@@ -10,8 +10,8 @@ import android.support.v7.widget.RecyclerView;
 
 import java.util.ArrayList;
 
-import adapter.HotelAdapter;
-import model.Hotel;
+import id.sch.smktelkom_mlg.learn.recyclerview2.adapter.HotelAdapter;
+import id.sch.smktelkom_mlg.learn.recyclerview2.model.Hotel;
 
 public class MainActivity extends AppCompatActivity {
     ArrayList<Hotel> mList = new ArrayList<>();

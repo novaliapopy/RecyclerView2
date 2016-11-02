@@ -1,4 +1,4 @@
-package adapter;
+package id.sch.smktelkom_mlg.learn.recyclerview2.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 import id.sch.smktelkom_mlg.learn.recyclerview2.R;
-import model.Hotel;
+import id.sch.smktelkom_mlg.learn.recyclerview2.model.Hotel;
 
 /**
  * Created by Novalia on 01/11/2016.
